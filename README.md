@@ -38,7 +38,7 @@ Pour emuler, utilisez ce lien:
 
 Dans cette partie, on va commencer par mettre en place une classe Screen qui contiendra toutes les variables et fonctions associés à l'écran.
 
-La méthode "init" en python est une méthode spéciale qui est appelée lorsqu'une instance de la classe est créée.
+La méthode init en python est une méthode spéciale qui est appelée lorsqu'une instance de la classe est créée.
 
 ### Exercice
 
