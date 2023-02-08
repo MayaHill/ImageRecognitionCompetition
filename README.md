@@ -29,7 +29,9 @@ Pour ce workshop, nous allons utiliser plusieurs librairies python: pillow pour 
   ```
   pip3 install pyautogui
   ```
-  Documentation: https://pyautogui.readthedocs.io/en/latest/
+  Documentation:
+    - https://pyautogui.readthedocs.io/en/latest/
+    - https://pillow.readthedocs.io/en/stable/handbook/tutorial.html
 
 Pour emuler, utilisez ce lien:
     https://www.smbgames.be/new-super-mario-bros.php
