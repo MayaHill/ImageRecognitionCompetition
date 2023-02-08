@@ -1,4 +1,4 @@
-# Image Recognition Competition
+# Mario MiniGame Competition
 
 <p align="center">
   <img src="source/Wanted_NSMB_gameplay.png" alt="Wanted_NSMB_gameplay"/>
