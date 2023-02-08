@@ -131,7 +131,10 @@ Ensuite, utiliser les fonctions de pyautogui permettant de cliquer sur l'écran 
 ```py
 def click(bounds):
     ...
-  ```
+    
+ ```
+ 
+ La variable bounds correspond aux coordonnées [left, top, width, height] identifiés par la fonction locate de pyautogui.
 
 ## Partie 5 - Finalisation
 
