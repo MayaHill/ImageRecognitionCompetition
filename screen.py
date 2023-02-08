@@ -1,3 +1,7 @@
+import pyautogui
+from PIL import Image, ImageDraw
+import cv2
+
 class Screen(object):
     def __init__(self):
         self.mainScreen = ...
